@@ -5,7 +5,7 @@
 [gh_last_release_svg]: https://img.shields.io/github/v/release/iamkubi/github-release?sort=semver
 [gh_last_release_url]: https://github.com/iamkubi/github-release/releases/latest
 
-The sane way of creating new and updating existing Github Releases with assets.
+The sane way of creating new and updating existing Github Releases with assets..
 
 # Usage
 
